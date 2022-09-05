@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3024920 */
+  src: url('~@/static/font/iconfont.woff2?t=1645257609048') format('woff2'),
+       url('~@/static/font/iconfont.woff?t=1645257609048') format('woff'),
+       url('~@/static/font/iconfont.ttf?t=1645257609048') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiahao:before {
+  content: "\e726";
+}
+
+.icon-jianhaob:before {
+  content: "\e6ca";
+}
+
+.icon-jianhao:before {
+  content: "\e634";
+}
+
+.icon-jianhao2:before {
+  content: "\e628";
+}
+
+.icon-jiahao3:before {
+  content: "\e84f";
+}
+
+.icon-jiahao2fill:before {
+  content: "\e728";
+}
+
+.icon-jianhao21:before {
+  content: "\e617";
+}
+
+.icon-jiahao1:before {
+  content: "\eaf3";
+}
+
+.icon-jianhao3:before {
+  content: "\eaf5";
+}
+
+.icon-jianhao-:before {
+  content: "\e605";
+}
+
+.icon-jiahao31:before {
+  content: "\e602";
+}
+
+.icon-jianhao4:before {
+  content: "\e606";
+}
+
+.icon-guanbi:before {
+  content: "\eaf2";
+}
+
+.icon-guanbi1:before {
+  content: "\e603";
+}
+
+.icon-sanhengzongleimu:before {
+  content: "\e6cf";
+}
+
+.icon-sanhengzongleimu1:before {
+  content: "\e600";
+}
+
+.icon-sanhengxian:before {
+  content: "\e60e";
+}
+
+.icon-CZ_004:before {
+  content: "\e604";
+}
+
